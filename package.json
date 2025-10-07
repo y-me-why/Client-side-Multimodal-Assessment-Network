@@ -1,0 +1,8 @@
+{
+  "name": "ai-interview-prep-monorepo",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
